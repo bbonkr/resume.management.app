@@ -1,0 +1,7 @@
+{
+    "allowUnicodeIdentifiers": true,
+    "useSingleRequestParameter": true,
+    "withInterfaces": false,
+    "withSeparateModelsAndApi": false,
+    "supportsES6": true
+}
